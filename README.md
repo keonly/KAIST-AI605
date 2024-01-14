@@ -1,5 +1,12 @@
 # KAIST AI605: Deep Learning for Natural Language Processing
 
+## Logistics
+- Instructor: James Thorne
+- Every Monday and Wednesday: 10:30am —  12:00pm
+- Seoul Building 1 International Seminar Room 
+(for students in Hongneung campus) + Zoom (for others)
+- Zoom link to be provided on KLMS
+
 ## Prerequisites
 - **Resources**: Students should use their own GPU or use the departmental VESSL cluster. If not available, cloud-based services such as Google Colab can be used.
 - **Prerequisites**: It is recommended to take a class such as AI501 machine learning, AI502 deep learning, or  AI504 programming for AI.
